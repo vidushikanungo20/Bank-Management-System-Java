@@ -14,8 +14,10 @@ Any IDE (VS Code / IntelliJ) OR Terminal
 2. Download / Clone the Repository
 git clone <your-repo-link>
 cd Bank-Management-System-Java
+
 3. Compile the Program
 javac Main.java
+
 4. Run the Program
 java Main
 How to Use
